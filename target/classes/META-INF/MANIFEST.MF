@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: arjunteli
+Build-Jdk: 17.0.3
+Implementation-Title: AUTOFIN_API
+Implementation-Version: 1
+Implementation-Vendor-Id: com.autofin.api
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/Mobencryption
+Created-By: Maven Integration for Eclipse
+
